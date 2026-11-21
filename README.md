@@ -2,4 +2,4 @@
 
 https://leanpub.com/linuxnetworkprogramming-thedefinitiveguide 
 
-<img src="cover.png" />
+<img src="Cover Front.png" />
