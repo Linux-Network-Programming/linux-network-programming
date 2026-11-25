@@ -2,6 +2,9 @@
 
 Leanpub (ebook): https://leanpub.com/linuxnetworkprogramming-thedefinitiveguide 
 
+Google Play: https://play.google.com/store/books/details/Marco_Bruno_Linux_Network_Programming_The_Definiti?id=_tkyEgAAQBAJ 
+
+
 <img src="Cover Front.png" />
 
 Linux Network Programming – The Definitive Guide is a comprehensive technical reference and practical guide to network programming on Linux, written for developers, system programmers, network engineers, and advanced students who want to understand how network applications work, how communication protocols operate, and how Linux implements its networking facilities.
