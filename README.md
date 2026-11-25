@@ -10,7 +10,7 @@ Starting with the foundations of computer networking and the TCP/IP protocol sui
 
 The book goes beyond conventional socket programming tutorials. It examines the interaction between user-space applications, the Linux kernel, networking protocols, and underlying system interfaces, offering an in-depth understanding of both network programming concepts and their Linux-specific implementations.
 
-What You Will Learn
+# What You Will Learn
 
 Networking Fundamentals: Understand Ethernet, ARP, IPv4, IPv6, ICMP, UDP, TCP, DNS, DHCP, and other essential networking protocols.
 
@@ -30,13 +30,13 @@ Linux Networking Internals: Investigate network namespaces, virtual network inte
 
 Practical Network Application Development: Apply the concepts through complete architectural discussions and practical case studies involving network services, concurrent servers, reverse proxies, and peer-to-peer applications.
 
-A Practical and In-Depth Approach
+# A Practical and In-Depth Approach
 
 Throughout the book, concepts are explained progressively, supported by extensive C programming examples and practical demonstrations on Linux. Rather than treating networking as a collection of API calls, the material explains the underlying mechanisms, system interfaces, protocol behavior, and design considerations that determine how network applications operate.
 
 Readers are encouraged to experiment with the examples, inspect network traffic, investigate system calls, and explore the Linux networking environment using the tools and facilities available on modern Linux distributions.
 
-Who Should Read This Book?
+# Who Should Read This Book?
 
 This book is intended for:
 
@@ -54,7 +54,7 @@ Developers building high-performance, concurrent, and secure network services.
 
 A working knowledge of the C programming language and basic Linux command-line operations is recommended.
 
-The Complete Reference
+# The Complete Reference
 
 Linux Network Programming – The Definitive Guide provides an extensive treatment of network programming, from fundamental networking concepts to advanced Linux kernel networking facilities. It is designed to serve both as a structured learning resource and as a long-term technical reference for developers working with Linux networking.
 
