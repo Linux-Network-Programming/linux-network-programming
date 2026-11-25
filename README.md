@@ -1,7 +1,5 @@
 # Linux Network Programming - The Definitive Guide
 
-Amazon (paperback): https://www.amazon.co.uk/dp/B0GYQ4TK2V?binding=paperback&qid=1795587487 
-
 Leanpub (ebook): https://leanpub.com/linuxnetworkprogramming-thedefinitiveguide 
 
 <img src="Cover Front.png" />
